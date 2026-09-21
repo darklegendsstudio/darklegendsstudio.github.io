@@ -1,0 +1,11 @@
+[
+  {
+    "id": "dls-web-v1",
+    "titulo": "DARK LEGENDS STUDIO PREPARA SU NUEVA WEB",
+    "fecha": "2026-09-21",
+    "tipo": "ESTUDIO",
+    "contenido": "Dark Legends Studio está construyendo un nuevo centro digital para reunir historias, contenido y coleccionables.\n\nLa nueva web tendrá tres áreas principales: **INICIO**, **HISTORIAS** y **COLECCIONABLES**.",
+    "imagen": "./img/noticias/web-dls.svg",
+    "principal": false
+  }
+]
