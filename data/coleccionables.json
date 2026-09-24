@@ -15,7 +15,7 @@
             {
               "id": "tarjeta-3d",
               "tipo": "Tarjeta 3D Monstruos de Bolsillo",
-              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/gran-bestia/tarjeta_gran_bestia-2.webp",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/gran-bestia/tarjeta_gran_bestia.webp",
               "variantes": [
                 {
                   "color": "Pintado a mano - Metal Antiguo",
@@ -45,7 +45,7 @@
         {
           "id": "ciclope",
           "nombre": "Cíclope",
-          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/ciclope/ciclope-2.webp",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/ciclope/ciclope.webp",
           "productos": [
             {
               "id": "tarjeta-3d",
@@ -266,7 +266,7 @@
           "descripcion": "Ocultos bajo aeropuertos y hangares de distintas partes del mundo viven los **Gremlins**, pequeñas criaturas cuya historia comenzó en **Inglaterra durante la Primera Guerra Mundial**.\n\nCon apenas **60 centímetros de altura**, podrían parecer poco amenazantes, pero su relación con la tecnología los convierte en auténticos expertos del caos. Se dice que muchas de las innovaciones y avances técnicos de principios del siglo XX estuvieron influenciados por ellos, aunque nadie llegó a reconocer su participación.\n\nDesde entonces, los Gremlins parecen haberse tomado esa falta de reconocimiento de manera bastante personal. Su pasatiempo favorito consiste en **complicar la vida de las personas**, especialmente la de pilotos, mecánicos y cualquiera que trabaje cerca de un avión.\n\nComo no poseen alas propias, aprovechan los **aviones comerciales para viajar** de un lugar a otro, escondiéndose entre instalaciones y terminales.\n\nAsí que la próxima vez que algo inexplicable falle justo antes de un vuelo, quizá no sea una simple avería. **Tal vez un Gremlin ya estuvo ahí primero**."
         }
       ],
-      "banner": "./img/coleccionables/homenaje-monstruos-de-bolsillo/banner_homenaje_monstruos_de_bolsillo_v0-2.webp"
+      "banner": "./img/coleccionables/homenaje-monstruos-de-bolsillo/banner_homenaje_monstruos_de_bolsillo_v0.webp"
     }
   ]
 }
