@@ -1,9 +1,0 @@
-{
-  "eventos": [
-    { "id": "evt-001", "fecha": "2026-08-31", "tipo": "VIDEO", "titulo": "Video de prueba ya publicado", "descripcion": "Este evento vencido valida que Inicio no lo muestre.", "enlace": "" },
-    { "id": "evt-002", "fecha": "2026-09-12", "tipo": "HISTORIA", "titulo": "Nuevo episodio de ARKAXES", "descripcion": "Publicación del siguiente episodio de la historia principal.", "enlace": "#historias/arkaxes/capitulos" },
-    { "id": "evt-003", "fecha": "2026-09-18", "tipo": "COLECCIONABLE", "titulo": "Nueva variante de Frankenstein", "descripcion": "Actualización de la colección Monstruos Clásicos.", "enlace": "#coleccionables/monstruos-clasicos/frankenstein" },
-    { "id": "evt-004", "fecha": "2026-09-25", "tipo": "VIDEO", "titulo": "Proceso de diseño DLS", "descripcion": "Nuevo contenido de estudio y fabricación.", "enlace": "#inicio" },
-    { "id": "evt-005", "fecha": "2026-10-01", "tipo": "TEMPORADA", "titulo": "Temporada Halloween", "descripcion": "Inicio de la temporada de mayor visibilidad para monstruos y diseños oscuros.", "enlace": "#coleccionables" }
-  ]
-}
