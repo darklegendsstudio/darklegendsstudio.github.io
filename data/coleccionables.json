@@ -1,0 +1,272 @@
+{
+  "colecciones": [
+    {
+      "id": "homenaje-monstruos-de-bolsillo",
+      "nombre": "Homenaje Monstruos de Bolsillo",
+      "categoria": "Monstruos",
+      "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/portada_homenaje_monstruos_de_bolsillo_v0.webp",
+      "descripcion": "Una colección homenaje a los monstruos que marcaron a toda una generación.\nEn Dark Legends Studio reinterpretamos estas criaturas clásicas en distintos formatos coleccionables, buscando conservar la esencia y personalidad de sus diseños originales.\nLa colección reúne figuras inspiradas en los modelos clásicos, tarjetas 3D basadas en el arte de sus cartas originales y otros productos derivados, creados para quienes crecieron coleccionándolos, intercambiándolos y descubriendo nuevas criaturas.\nCada pieza busca combinar nostalgia, fidelidad visual y una nueva forma de exhibir la colección, manteniendo vivo el espíritu de aquellos pequeños monstruos que parecían caber en un bolsillo, pero ocupaban un lugar enorme en nuestra imaginación.",
+      "personajes": [
+        {
+          "id": "gran-bestia",
+          "nombre": "Gran Bestia",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/gran-bestia/gran_bestia.webp",
+          "productos": [
+            {
+              "id": "tarjeta-3d",
+              "tipo": "Tarjeta 3D Monstruos de Bolsillo",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/gran-bestia/tarjeta_gran_bestia.webp",
+              "variantes": [
+                {
+                  "color": "Pintado a mano - Metal Antiguo",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Transparente",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Gris Oscuro",
+                  "estatus": "Disponible",
+                  "precio": 120,
+                  "moneda": "MXN"
+                }
+              ],
+              "descripcion": "**Tarjeta 3D — La Gran Bestia**\n\nVersión en relieve de La Gran Bestia perteneciente a nuestra colección homenaje a los monstruos clásicos de los 90.\n\n**Medidas:** 90 × 62 × 6.2 mm\n\n**Material: **Resina\n\n**Acabado mostrado: **Metal Antiguo, pintado a mano."
+            }
+          ],
+          "descripcion": "Pocas criaturas pueden compararse con **La Gran Bestia**, una gigantesca serpiente marina de siete cabezas cuya existencia se remonta a más de **2,000 años**.\n\nCon cerca de **50 metros de altura** y un peso estimado de **20 toneladas**, su enorme tamaño hace que incluso otros monstruos parezcan pequeños a su lado. Tras abandonar el mar, encontró refugio en una remota selva próxima a las costas del **norte de África**, desde donde ejerce su influencia sobre los océanos.\n\nCada una de sus siete cabezas está vinculada a uno de los siete mares, otorgándole un extraordinario dominio sobre las aguas del planeta. La criatura es capaz de **elevar las mareas y provocar enormes inundaciones incluso a grandes distancias**, convirtiéndola en una amenaza que no necesita abandonar su escondite para causar destrucción.\n\nAllí, oculta entre la vegetación y lejos de la civilización, permanece una de las criaturas más grandes y poderosas conocidas: **La Gran Bestia**.",
+          "habilitado": true
+        },
+        {
+          "id": "ciclope",
+          "nombre": "Cíclope",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/ciclope/ciclope.webp",
+          "productos": [
+            {
+              "id": "tarjeta-3d",
+              "tipo": "Tarjeta 3D Monstruos de Bolsillo",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/ciclope/tarjeta_ciclope.webp",
+              "variantes": [
+                {
+                  "color": "Pintado a mano - Metal Antiguo",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Transparente",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Gris Oscuro",
+                  "estatus": "Disponible",
+                  "precio": 120,
+                  "moneda": "MXN"
+                }
+              ],
+              "descripcion": "**Tarjeta 3D — Cíclope**\n\nVersión en relieve del Cíclope perteneciente a nuestra colección homenaje a los monstruos clásicos de los 90.\n\n**Medidas:** 90 × 62 × 6.2 mm\n\n**Material: **Resina\n\n**Acabado mostrado: **Metal Antiguo, pintado a mano."
+            }
+          ],
+          "descripcion": "Oculto en una solitaria isla del Mediterráneo habita **Cíclope**, un enorme humanoide originario de Grecia cuya existencia se remonta a más de **2,000 años**.\n\nCon aproximadamente **12 metros de altura**, su apariencia resulta tan intimidante como inconfundible. En medio de su frente posee un único y enorme ojo, mientras que su gigantesco cuerpo y aspecto feroz lo convierten en una criatura difícil de confundir con cualquier otro habitante de las islas.\n\nA pesar de su temible presencia, Cíclope lleva una vida principalmente **solitaria**. Permanece la mayor parte del tiempo cerca de su cueva, donde se dedica a una actividad bastante inesperada para un monstruo de su tamaño: **criar borregos morados**.\n\nLos viajeros que exploran las cavernas de las islas mediterráneas deberían hacerlo con cuidado. Una cueva aparentemente abandonada podría ser su hogar y, desde algún rincón de la oscuridad, **Cíclope podría estar echándote un ojo**.",
+          "habilitado": true
+        },
+        {
+          "id": "tengu",
+          "nombre": "Tengu",
+          "habilitado": false,
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/tengu/tengu.webp",
+          "productos": [],
+          "descripcion": "Entre las montañas y bosques de Inglaterra habita Tengu, una extraña criatura de aspecto aviar cuya aparición se remonta al año **1897**.\n\nCon cerca de **2 metros de altura**, Tengu combina rasgos de ave y humano en una figura tan intimidante como peculiar. Está convencido de saberlo absolutamente todo y no pierde oportunidad de demostrarlo, aunque, irónicamente, puede resultar bastante fácil de engañar.\n\nSu verdadero peligro aparece cuando pierde la paciencia. Tengu posee un **temperamento terrible** y detesta especialmente a quienes intentan hacer trampa. Si descubre a alguien engañándolo, puede recurrir a uno de sus recursos más extraños: un impermeable capaz de **volverlo invisible**, permitiéndole acercarse sin ser visto.\n\nQuienes provocan su furia corren el riesgo de acabar convertidos en su comida… o siendo llevados hasta un volcán activo para ser arrojados en su interior.\n\nCuando no está castigando tramposos, Tengu disfruta de algo mucho más sencillo: **pescado crudo acompañado de algas**."
+        },
+        {
+          "id": "kraken",
+          "nombre": "Kraken",
+          "habilitado": false,
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/kraken/kraken.webp",
+          "productos": [],
+          "descripcion": "En las profundidades más oscuras del océano habita **Kraken**, una criatura marina de proporciones tan descomunales que durante siglos ha sido considerada una de las mayores amenazas de los mares.\n\nSu primer avistamiento registrado se remonta al año **1555**, y desde entonces las historias sobre su tamaño no han hecho más que alimentar su leyenda. Con cerca de **1.6 kilómetros de ancho**, Kraken es tan enorme que, visto desde la distancia, puede confundirse fácilmente con una **isla perdida en medio del océano**.\n\nAcercarse demasiado, sin embargo, revela su verdadera naturaleza. Entre las aguas aparecen sus **brillantes ojos** y una enorme boca repleta de dientes de tal tamaño que algunos navegantes llegaron a confundirlos con bloques de hielo.\n\nKraken posee además un apetito a la altura de sus dimensiones. Un barco que se aventure demasiado cerca podría descubrir que su tripulación completa no representa más que **una sola comida** para este monstruo de las profundidades."
+        },
+        {
+          "id": "jotun-troll",
+          "nombre": "Jotun Troll",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/jotun-troll/jotun_troll.webp",
+          "productos": [
+            {
+              "id": "tarjeta-3d",
+              "tipo": "Tarjeta 3D Monstruos de Bolsillo",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/jotun-troll/tarjeta_jotun_troll.webp",
+              "variantes": [
+                {
+                  "color": "Pintado a mano - Metal Antiguo",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Transparente",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Gris Oscuro",
+                  "estatus": "Disponible",
+                  "precio": 120,
+                  "moneda": "MXN"
+                }
+              ],
+              "descripcion": "**Tarjeta 3D — Jotun Troll**\n\nVersión en relieve del Jotun Troll perteneciente a nuestra colección homenaje a los monstruos clásicos de los 90.\n\n**Medidas:** 90 × 62 × 6.2 mm\n\n**Material: **Resina\n\n**Acabado mostrado: **Metal Antiguo, pintado a mano."
+            }
+          ],
+          "descripcion": "En las frías cuevas y montañas del **Círculo Ártico** habita **Jotun Troll**, una extraña criatura nacida en Escandinavia durante la **Era Glacial**.\n\nAunque apenas alcanza **1 metro de altura**, resulta prácticamente imposible confundirlo con cualquier otro ser. Sobre su cuerpo se amontonan nada menos que **nueve cabezas**, cada una con su propia expresión y, aparentemente, con algo que decir.\n\nSe cuenta que Jotun Troll es **hijo del rey del hielo**, un origen que explicaría su resistencia a los ambientes más extremos del norte. Sin embargo, su verdadero poder no depende de la fuerza ni del tamaño.\n\nSu arma secreta es mucho más desesperante: **hablar sin descanso**. Si dos cabezas pueden discutir durante horas, imagina lo que ocurre cuando nueve intentan hacerlo al mismo tiempo. Sus enemigos pueden soportar el frío, las cavernas e incluso enfrentarse a la criatura… pero pocos conservan la cordura después de escucharla durante demasiado tiempo.",
+          "habilitado": true
+        },
+        {
+          "id": "coatlicue",
+          "nombre": "Coatlicue",
+          "habilitado": false,
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/coatlicue/coatlicue.webp",
+          "productos": [],
+          "descripcion": "Oculta en una cueva infestada de serpientes en algún lugar de México habita **Coatlicue**, una imponente criatura reptiliana cuya existencia se remonta a más de **2,500 años**.\n\nCon aproximadamente **2.13 metros de altura**, su figura combina rasgos humanos y serpentinos en una apariencia tan inquietante como ceremonial. Se dice que en tiempos antiguos fue una reina azteca, y que sus dos caras simbolizan fuerzas opuestas que existen al mismo tiempo: **el bien y el mal, la vida y la muerte**.\n\nSu vestimenta es tan aterradora como su aspecto. Alrededor de su cuerpo lleva una **falda formada por serpientes vivas**, mientras que un collar de corazones humanos y un adorno con forma de cráneo completan su macabra apariencia.\n\nRodeada constantemente por reptiles y símbolos de muerte, Coatlicue permanece como una criatura en la que lo sagrado y lo monstruoso parecen formar parte de una misma naturaleza."
+        },
+        {
+          "id": "pie-grande",
+          "nombre": "Pie Grande",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/pie-grande/pie_grande.webp",
+          "productos": [
+            {
+              "id": "tarjeta-3d",
+              "tipo": "Tarjeta 3D Monstruos de Bolsillo",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/pie-grande/tarjeta_pie_grande.webp",
+              "variantes": [
+                {
+                  "color": "Pintado a mano - Metal Antiguo",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Transparente",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Gris Oscuro",
+                  "estatus": "Disponible",
+                  "precio": 120,
+                  "moneda": "MXN"
+                }
+              ],
+              "descripcion": "**Tarjeta 3D — Pie Grande**\n\nVersión en relieve de Pie Grande perteneciente a nuestra colección homenaje a los monstruos clásicos de los 90.\n\n**Medidas:** 90 × 62 × 6.2 mm\n\n**Material: **Resina\n\n**Acabado mostrado: **Metal Antiguo, pintado a mano."
+            }
+          ],
+          "descripcion": "Entre las montañas más frías y remotas de Estados Unidos se oculta **Pie Grande**, una enorme criatura humanoide cuya presencia comenzó a ser reportada durante el siglo pasado.\n\nCon aproximadamente 3.30 metros de altura y un peso cercano a los **325 kilos**, resulta difícil pasar por alto su enorme silueta. Su cuerpo está cubierto de abundante pelo, posee brazos extraordinariamente largos, una espalda encorvada y, como su nombre indica, unos **pies descomunales**. Su andar pesado hace que cada uno de sus pasos parezca anunciar su llegada.\n\nTambién conocido como **Sasquatch, Yeti o Alma**, Pie Grande es descrito como una curiosa mezcla de humano y simio, con la constitución de un auténtico jugador de fútbol americano.\n\nPor lo general prefiere mantenerse alejado de los demás, pero provocarlo es una pésima idea. Cuando se enfurece puede responder con enorme violencia, utilizando incluso **grandes piedras como armas** contra cualquiera que se acerque demasiado a su territorio.",
+          "habilitado": true
+        },
+        {
+          "id": "hobgoblin",
+          "nombre": "Hobgoblin",
+          "habilitado": false,
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/hobgoblin/hobgoblin.webp",
+          "productos": [],
+          "descripcion": "Oculto en rincones, armarios y pequeños escondites de las casas escocesas vive **El Hobgoblin**, una diminuta criatura cuya presencia se conoce desde el **siglo XVI**.\n\nCon apenas **75 centímetros de altura** y unos llamativos **ojos azules**, suele pasar desapercibido entre los habitantes de la casa. A pesar de su carácter reservado, puede convertirse en un ayudante inesperado: se dice que vigila a los bebés, cuida el hogar e incluso es capaz de **arreglar habitaciones durante la noche**.\n\nSin embargo, El Hobgoblin espera recibir atención a cambio de sus servicios. Si siente que ha sido ignorado o maltratado, su lado travieso aparece rápidamente. Entonces comienzan las **bromas pesadas**, las pesadillas y la misteriosa desaparición de juguetes y otros objetos.\n\nTiene fama de ser bastante malhumorado, pero quienes saben tratarlo bien pueden ganarse su confianza. Con suficientes cuidados y algún que otro consentimiento, **El Hobgoblin puede convertirse en un fiel amigo del hogar**."
+        },
+        {
+          "id": "medusa",
+          "nombre": "Medusa",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/medusa/medusa.webp",
+          "productos": [
+            {
+              "id": "tarjeta-3d",
+              "tipo": "Tarjeta 3D Monstruos de Bolsillo",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/medusa/tarjeta_medusa.webp",
+              "variantes": [
+                {
+                  "color": "Pintado a mano - Metal Antiguo",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Transparente",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Gris Oscuro",
+                  "estatus": "Disponible",
+                  "precio": 120,
+                  "moneda": "MXN"
+                }
+              ],
+              "descripcion": "**Tarjeta 3D — Medusa**\n\nVersión en relieve de Medusa perteneciente a nuestra colección homenaje a los monstruos clásicos de los 90.\n\n**Medidas:** 90 × 62 × 6.2 mm\n\n**Material: **Resina\n\n**Acabado mostrado: **Metal Antiguo, pintado a mano."
+            }
+          ],
+          "descripcion": "Hace miles de años, en la antigua Grecia, vivió una mujer de extraordinaria belleza conocida como Medusa. Su cabellera dorada despertaba admiración, hasta que una traición contra Atenea provocó una terrible maldición que transformó para siempre su apariencia y su destino.\n\nDesde entonces, en lugar de cabello, una maraña de serpientes vivas cubre su cabeza, convirtiéndola en una criatura tan fascinante como peligrosa.\n\nCon aproximadamente 13 metros de altura y unos intensos **ojos azules**, Medusa posee un poder capaz de detener a cualquiera que se atreva a mirarla directamente: **su mirada convierte en piedra** a quien cruza sus ojos con los de ella.\n\nPor esa razón recibe pocas visitas en la remota cueva que habita en los confines de **Oceanus**.\n\nY aunque muchas de las estatuas que rodean su guarida parecen simples figuras decorativas, algunas podrían tener una historia mucho más inquietante: **alguna vez fueron visitantes, enemigos… o incluso antiguos amigos de Medusa**.",
+          "habilitado": true
+        },
+        {
+          "id": "goblin",
+          "nombre": "Goblin",
+          "habilitado": false,
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/goblin/goblin.webp",
+          "productos": [],
+          "descripcion": "Entre drenajes, túneles y antiguos pasadizos subterráneos de Europa se esconde **Goblin**, una criatura de aspecto desagradable cuya presencia se conoce desde hace cientos de años.\n\nOriginario de **Francia** y con cerca de **2 metros de altura**, Goblin es considerado uno de los duendes más feos y repulsivos que existen. Los lugares húmedos, oscuros y malolientes que otras criaturas evitarían son precisamente los que él prefiere para establecer su hogar.\n\nTambién posee una extraña habilidad para el engaño. Puede **disfrazarse como un pájaro o incluso como un perro con alas**, aunque acercarse para acariciarlo no es una buena idea: cuando alguien lo intenta, responde emitiendo un sonido tan extraño como aterrador.\n\nLas historias más inquietantes cuentan que Goblin llega a **secuestrar niñas para convertirlas en cuidadoras de sus peculiares hijos**.\n\nY cuando llega la hora de comer, tiene un gusto muy particular: su alimento favorito es la **tortuga servida directamente dentro de su caparazón**."
+        },
+        {
+          "id": "cerbero",
+          "nombre": "Cerbero",
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/cerbero/cerbero.webp",
+          "productos": [
+            {
+              "id": "tarjeta-3d",
+              "tipo": "Tarjeta 3D Monstruos de Bolsillo",
+              "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/cerbero/tarjeta_cerbero.webp",
+              "variantes": [
+                {
+                  "color": "Pintado a mano - Metal Antiguo",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Transparente",
+                  "estatus": "Disponible",
+                  "precio": 150,
+                  "moneda": "MXN"
+                },
+                {
+                  "color": "Gris Oscuro",
+                  "estatus": "Disponible",
+                  "precio": 120,
+                  "moneda": "MXN"
+                }
+              ],
+              "descripcion": "**Tarjeta 3D — Cerbero**\n\nVersión en relieve de Cerbero perteneciente a nuestra colección homenaje a los monstruos clásicos de los 90.\n\n**Medidas:** 90 × 62 × 6.2 mm\n\n**Material: **Resina\n\n**Acabado mostrado: **Metal Antiguo, pintado a mano."
+            }
+          ],
+          "descripcion": "Custodiando las puertas del inframundo se encuentra **Cerbero**, una temible criatura de tres cabezas cuya existencia se remonta a la antigua Grecia, hace aproximadamente **4,000 años**.\n\nCon cerca de **1.3 metros de altura**, Cerbero combina varios rasgos monstruosos en un solo cuerpo. Posee tres cabezas feroces, afiladas garras, una **cola de dragón** y lleva alrededor del cuello un collar formado por **serpientes venenosas**.\n\nSu aspecto y carácter son herencia directa de sus extraordinarios padres: una criatura mitad mujer y mitad serpiente, y un gigantesco ser con cabeza de dragón.\n\nCerbero tiene una misión muy clara: **evitar que alguien escape de Hades**. Quien intente atravesar sus dominios sin permiso corre el riesgo de convertirse en su siguiente comida.\n\nSin embargo, incluso este monstruoso guardián tiene un punto débil inesperado: una simple rebanada de pastel puede ser suficiente para convencerlo de dejarte pasar.",
+          "habilitado": true
+        },
+        {
+          "id": "gremlin",
+          "nombre": "Gremlin",
+          "habilitado": false,
+          "imagen": "./img/coleccionables/homenaje-monstruos-de-bolsillo/gremlin/gremlin.webp",
+          "productos": [],
+          "descripcion": "Ocultos bajo aeropuertos y hangares de distintas partes del mundo viven los **Gremlins**, pequeñas criaturas cuya historia comenzó en **Inglaterra durante la Primera Guerra Mundial**.\n\nCon apenas **60 centímetros de altura**, podrían parecer poco amenazantes, pero su relación con la tecnología los convierte en auténticos expertos del caos. Se dice que muchas de las innovaciones y avances técnicos de principios del siglo XX estuvieron influenciados por ellos, aunque nadie llegó a reconocer su participación.\n\nDesde entonces, los Gremlins parecen haberse tomado esa falta de reconocimiento de manera bastante personal. Su pasatiempo favorito consiste en **complicar la vida de las personas**, especialmente la de pilotos, mecánicos y cualquiera que trabaje cerca de un avión.\n\nComo no poseen alas propias, aprovechan los **aviones comerciales para viajar** de un lugar a otro, escondiéndose entre instalaciones y terminales.\n\nAsí que la próxima vez que algo inexplicable falle justo antes de un vuelo, quizá no sea una simple avería. **Tal vez un Gremlin ya estuvo ahí primero**."
+        }
+      ],
+      "banner": "./img/coleccionables/homenaje-monstruos-de-bolsillo/banner_homenaje_monstruos_de_bolsillo_v0.webp"
+    }
+  ]
+}

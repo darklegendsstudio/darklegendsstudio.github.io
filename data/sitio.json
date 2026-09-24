@@ -1,0 +1,38 @@
+{
+  "marca": {
+    "nombre": "Dark Legends Studio",
+    "nombre_corto": "DLS",
+    "logo": "./img/general/logo.webp",
+    "lema_corto": "Historias · Diseño · Coleccionables"
+  },
+  "youtube": {
+    "playlist_general": "https://www.youtube.com/embed/videoseries?list=PLZ9VFANFSzJYG2_TNbMlbA7POBN8y_lzo"
+  },
+  "redes": [
+    {
+      "nombre": "Facebook",
+      "icono": "./img/general/redes/facebook.svg",
+      "url": "https://www.facebook.com/studiodarklegends"
+    },
+    {
+      "nombre": "Instagram",
+      "icono": "./img/general/redes/instagram.svg",
+      "url": "https://www.instagram.com/studiodarklegends/"
+    },
+    {
+      "nombre": "TikTok",
+      "icono": "./img/general/redes/tiktok.svg",
+      "url": "https://www.tiktok.com/@studiodarklegends"
+    },
+    {
+      "nombre": "YouTube",
+      "icono": "./img/general/redes/youtube.svg",
+      "url": "https://www.youtube.com/@DarkLegendsStudio"
+    },
+    {
+      "nombre": "X",
+      "icono": "./img/general/redes/x.svg",
+      "url": "https://x.com/StudioDarkLgnds"
+    }
+  ]
+}

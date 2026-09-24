@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "tipo": "historia",
+    "referencia": "",
+    "etiqueta": "NUEVO EPISODIO",
+    "titulo": "ARKAXES",
+    "texto": "La historia principal de Dark Legends Studio comienza a tomar forma.\n\nDescubre el nuevo episodio en su versión de **Cómic** o entra a la versión expandida en **Novela Web**.",
+    "imagen": "./img/historias/arkaxes/portada/hero.webp",
+    "texto_boton": "DESCUBRIR ARKAXES",
+    "enlace": "#historias/arkaxes"
+  },
+  "historias_destacadas": [
+    "arkaxes",
+    "historias-cortas"
+  ],
+  "coleccionables_destacados": [
+    {
+      "coleccion": "monstruos-clasicos",
+      "personaje": "frankenstein"
+    },
+    {
+      "coleccion": "monstruos-clasicos",
+      "personaje": "gargola"
+    }
+  ]
+}
